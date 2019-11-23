@@ -83,83 +83,47 @@
 			</div>
 		</section>
 
-		<section id="fh5co-us" data-section="nosotros">
-			<div class="boxes mycontainer">
-				<div class="row">
-					<div class="col-sm-12 col-md-4">
-						<div class="row">
-							<div class="col-sm-12 col-md-6 box1">
-								<div class="card">
-  									<!--<img class="card-img-top" src="..." alt="Card image cap">-->
-  									<div class="card-body">
-    									<h5 class="card-title">Misión</h5>
-    									<p class="card-text">Buscar la completa satisfacción de nuestros clientes que requiera el desarrollo de proyectos de energía fotovoltaíca, la venta e instalación de equipos de combeo, y proyectos de construcción, cumpliendo con la normativa vigente, altos estándares de calidad e innovacón
+		<section id="" data-section="nosotros"  class="nosotros">
+  									<div class="elementnosotros">
+									  <div class="somos">
+									  	<h5 class="">Misión</h5>
+    									<p class="">Buscar la completa satisfacción de nuestros clientes que requiera el desarrollo de proyectos de energía fotovoltaíca, la venta e instalación de equipos de combeo, y proyectos de construcción, cumpliendo con la normativa vigente, altos estándares de calidad e innovacón</p>
+									  </div> 	
     									<a href="#" class="btn btn-default">Ver más...</a>
   									</div>
-								</div>
-							</div>
-							<div class="col-sm-12 col-md-6 box2">
-								<div class="card" >
-  									<div class="card-body">
-    									<h5 class="card-title">Visión</h5>
-    									<p class="card-text">Para el 2020 ser una empresa consolidada como EPC (Ingeniería, Diseño y Construcción) en instalaciones fotovoltaícas y ser referente nivel peninsular en equipos de bombeo</p>
+								
+  									<div class="elementnosotros">
+										<div>
+											<h5 class="">Visión</h5>
+											<p class="">Para el 2020 ser una empresa consolidada como EPC (Ingeniería, Diseño y Construcción) en instalaciones fotovoltaícas y ser referente nivel peninsular en equipos de bombeo</p>
+										</div>
     									<a href="#" class="btn btn-default">Ver más...</a>
   									</div>
-								</div>
-							</div>
-						</div>
-					</div>
-					<div class="col-sm-12 col-md-4">
-						<div class="row">
-							<div class="col-sm-12 col-md-6 box3" >
-								<div class="card">
-  									<!--<img class="card-img-top" src="..." alt="Card image cap">-->
-  									<div class="card-body">
-    									<h5 class="card-title">Valores</h5>
-    									<p class="card-text">Calidad, Compromiso, REsponsabilidad, Originalidad (Innovación), Respeto, Honestidad</p>
+								
+					
+  									<div class="elementnosotros">
+										<div><h5 class="">Valores</h5>
+    									<p class="">Calidad, Compromiso, REsponsabilidad, Originalidad (Innovación), Respeto, Honestidad</p></div>
     									<a href="#" class="btn btn-default">Ver más...</a>
   									</div>
-								</div>
-							</div>
-							<div class="col-sm-12 col-md-6 box4" >
-								<div class="card">
-  									<!--<img class="card-img-top" src="..." alt="Card image cap">-->
-  									<div class="card-body">
-    									<h5 class="card-title">Soluciones</h5>
-    									<p class="card-text">Somos una empresa autorizada con personal técnico capacitado para la detencción y solucion de fallas en sistemas fotovoltaicos</p>
+  									<div class="elementnosotros">
+										<div><h5 class="">Soluciones</h5>
+    									<p class="">Somos una empresa autorizada con personal técnico capacitado para la detencción y solucion de fallas en sistemas fotovoltaicos</p></div>
     									<a href="#" class="btn btn-default">Ver más...</a>
   									</div>
-								</div>
-							</div>
-						</div>
-					</div>
-					<div class="col-sm-12 col-md-4">
-						<div class="row">
-							<div class="col-sm-12 col-md-6 box5" >
-								<div class="card">
-  									<!--<img class="card-img-top" src="..." alt="Card image cap">-->
-  									<div class="card-body">
-    									<h5 class="card-title">Construcción</h5>
-    									<p class="card-text">¿Piensa en un proyecto de construcción? Contamos con el personal capacitado y especializado para realizar el mejor trabajo para su proyecto</p>
+  									<div class="elementnosotros">
+										<div><h5 class="">Construcción</h5>
+    									<p class="">¿Piensa en un proyecto de construcción? Contamos con el personal capacitado y especializado para realizar el mejor trabajo para su proyecto</p></div>
+    									
     									<a href="#" class="btn btn-default">Ver más...</a>
   									</div>
-								</div>
-							</div>
-							<div class="col-sm-12 col-md-6 box6" >
-								<div class="card">
-  									<!--<img class="card-img-top" src="..." alt="Card image cap">-->
-  									<div class="card-body">
-    									<h5 class="card-title">Hidráulico</h5>
-    									<p class="card-text">Si su requerimiento es de agua, contamos con Bombas sumergibles, tratamiento de agua e isnstalación de equipos de bombeo, siempre con el personal y equipo de primera</p>
+  									<div class="elementnosotros">
+										<div><h5 class="">Hidráulico</h5>
+    									<p class="">Si su requerimiento es de agua, contamos con Bombas sumergibles, tratamiento de agua e isnstalación de equipos de bombeo, siempre con el personal y equipo de primera</p></div>
+    									
     									<a href="#" class="btn btn-default">Ver más...</a>
   									</div>
-								</div>
-							</div>
-						</div>
-					</div>
-				</div>
-			</div>
-			
+		</section>
 			<div class="fh5co-us" data-section="servicios" style="padding-top: 1em;">
 				<div class="row">
 					<div class="mycontainer">
@@ -172,7 +136,7 @@
 			</div>
 				</div>
 			</div>
-		</section>
+		
 		<section id="fh5co-trusted" data-section="">
 			<div id="solar" class="core-features" data-section="fv">
 				<div class="grid1 to-animate center" style="background-image: url(images/panel1.jpg);">

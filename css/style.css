@@ -1998,5 +1998,40 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#a4cdf4', end
   border-left: 20px solid #1f1f1f;
   box-shadow: inset 30px 0 0 0 #000;
 }
+.nosotros{
+  /* color: #fff !important; */
+  padding: 0px;
+  justify-content: space-around;
+  display: flex;
+  border:1px red solid;
+  width: 90%;
+  margin: auto;
+}
+.elementnosotros{
+  padding: 10px 0px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
 
-
+  width: 16.6%;
+  background-color: #002B56;
+  border:1px yellow solid;
+  color: #fff !important;
+}
+.elementnosotros p{
+  margin: 0%;
+  color:#FFF;
+  font-size: 12px;
+  padding: 0px 10px 0px 10px;
+  /* height: 100px; */
+}.elementnosotros h5{
+  margin: 0%;
+  padding: 0%;
+  color:#FFF;
+  border:1px red solid;
+  text-align: center;
+}
+.somos{
+  border:1px red solid;
+  padding: 0%;
+}
